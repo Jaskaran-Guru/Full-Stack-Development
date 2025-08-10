@@ -1,4 +1,4 @@
-import Chai from './chai.js';
+import Chai from './chai';
 
 function App() {
   return (
